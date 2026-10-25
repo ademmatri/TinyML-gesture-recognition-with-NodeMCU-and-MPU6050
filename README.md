@@ -26,6 +26,7 @@ Real-time gesture classification project using a NodeMCU (ESP8266), an MPU6050 a
 | RGB LED (Red) | D5` | Red channel output[cite: 2] |
 | RGB LED (Green) | `D6` | Green channel output[cite: 2] |
 | RGB LED (Blue) | `D7` | Blue channel output[cite: 2] |
+In my case , i don't have blue LED so i used yellow one instead.
 
 ---
 
